@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/letshopit/static/css/main.445b09f0.chunk.css",
+    "main.js": "/letshopit/static/js/main.7dad6b52.chunk.js",
+    "main.js.map": "/letshopit/static/js/main.7dad6b52.chunk.js.map",
+    "runtime-main.js": "/letshopit/static/js/runtime-main.f135c6b0.js",
+    "runtime-main.js.map": "/letshopit/static/js/runtime-main.f135c6b0.js.map",
+    "static/css/2.31ff0196.chunk.css": "/letshopit/static/css/2.31ff0196.chunk.css",
+    "static/js/2.5573c9b5.chunk.js": "/letshopit/static/js/2.5573c9b5.chunk.js",
+    "static/js/2.5573c9b5.chunk.js.map": "/letshopit/static/js/2.5573c9b5.chunk.js.map",
+    "static/js/3.46d9867d.chunk.js": "/letshopit/static/js/3.46d9867d.chunk.js",
+    "static/js/3.46d9867d.chunk.js.map": "/letshopit/static/js/3.46d9867d.chunk.js.map",
+    "index.html": "/letshopit/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/letshopit/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.445b09f0.chunk.css.map": "/letshopit/static/css/main.445b09f0.chunk.css.map",
+    "static/js/2.5573c9b5.chunk.js.LICENSE.txt": "/letshopit/static/js/2.5573c9b5.chunk.js.LICENSE.txt",
+    "static/media/1.b19de7d8.png": "/letshopit/static/media/1.b19de7d8.png",
+    "static/media/2.4e0415b3.png": "/letshopit/static/media/2.4e0415b3.png",
+    "static/media/footer.421a2578.png": "/letshopit/static/media/footer.421a2578.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f135c6b0.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.5573c9b5.chunk.js",
+    "static/css/main.445b09f0.chunk.css",
+    "static/js/main.7dad6b52.chunk.js"
+  ]
+}
