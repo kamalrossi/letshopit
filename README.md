@@ -7,3 +7,6 @@ project page:https://kamalrossi.github.io/letshopit/
 -Keywords: ReactJS, JSX, D3,E-Commerce
 
 -source code is available upon request (rossikamal@gmail.com)
+
+![image](https://user-images.githubusercontent.com/14850405/176674071-b178db54-0423-4cf5-b0e5-bda7cf809b91.png)
+
